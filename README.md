@@ -4,7 +4,7 @@ Sou estudante de Desenvolvimento de Sistemas e Designer Gráfico.
 
 Trabalho muito bem em equipe e acredito que minha bagagem do design pode agregar bastante na área de T.I., principalmente meus conhecimentos em usabilidade, interface, metodologias ágeis e design thinking.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+  <a href = "mailto:lailagebhard@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <!--
 - 🔭 I’m currently working on ...
