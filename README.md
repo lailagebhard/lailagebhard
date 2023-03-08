@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![lailagebhard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lailagebhard)](https://github.com/lailagebhard/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailagebhard)](https://github.com/lailagebhard/github-readme-stats)
+[![lailagebhard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lailagebhard)](https://github.com/lailagebhard/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailagebhard)](https://github.com/lailagebhard/github-readme-stats)
 
 
 <!--
