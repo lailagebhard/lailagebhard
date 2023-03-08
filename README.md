@@ -1,13 +1,12 @@
-### Hi there 👋
+Olá, eu sou a Laila! 👋
 
-[![lailagebhard's GitHub stats](https://github-readme-stats.vercel.app/api?username=lailagebhard)](https://github.com/lailagebhard/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailagebhard)](https://github.com/lailagebhard/github-readme-stats)
+Sou estudante de Desenvolvimento de Sistemas e Designer Gráfico.
 
+Trabalho muito bem em equipe e acredito que minha bagagem do design pode agregar bastante na área de T.I., principalmente meus conhecimentos em usabilidade, interface, metodologias ágeis e design thinking.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
 
 <!--
-**lailagebhard/lailagebhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
