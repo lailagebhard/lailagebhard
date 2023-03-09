@@ -4,7 +4,9 @@ Sou estudante de Desenvolvimento de Sistemas e Designer Gráfico.
 
 Trabalho muito bem em equipe e acredito que minha bagagem do design pode agregar bastante na área de T.I., principalmente meus conhecimentos em usabilidade, interface, metodologias ágeis e design thinking.
 
-  <a href = "mailto:lailagebhard@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/lailagebhard" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lailagebhard&layout=compact)](https://github.com/lailagebhard/github-readme-stats)
+
+<a href = "mailto:lailagebhard@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/lailagebhard" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
