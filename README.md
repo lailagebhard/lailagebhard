@@ -1,4 +1,4 @@
-Olá, eu sou a Laila! 👋
+<h3>Olá, eu sou a Laila! 👋</h3>
 
 - 🖥️ Estudante de Desenvolvimento de Sistemas
 - 🎨 Designer Gráfico
