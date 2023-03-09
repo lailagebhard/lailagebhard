@@ -18,4 +18,4 @@ Olá, eu sou a Laila! 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lailagebhard&show_icons=true&theme=dracula)
 
 <br>
-<a href = "mailto:lailagebhard@gmail.com"><img height="30" alt="Laila-LinkedIn" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/lailagebhard" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+<a href = "mailto:lailagebhard@gmail.com"><img height="30" alt="Laila-LinkedIn" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/lailagebhard" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
