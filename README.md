@@ -20,6 +20,6 @@
 <br>
 <div>
   <a href = "mailto:lailagebhard@gmail.com"><img height="30" alt="Laila-LinkedIn" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/lailagebhard](https://www.linkedin.com/in/laila-gebhard/)" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a> 
+  <a href="https://www.linkedin.com/in/laila-gebhard/" target="_blank"><img height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a> 
   <a href="https://behance.net/lailagebhard" target="_blank"><img height="30" alt="Laila-Behance" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/behance/behance-original.svg" target="_blank"></a> 
 </div>
