@@ -1,8 +1,6 @@
 <h2>Olá, eu sou a Laila! 👋</h2>
 
 - 🖥️ Estudante de Desenvolvimento de Sistemas
-- 🎨 Designer Gráfico
-- 🔎 Procurando por oportunidades como desenvolvedora
 - 🇧🇷 Santa Catarina - Brasil
 
 <div style="display: inline_block"><br>
